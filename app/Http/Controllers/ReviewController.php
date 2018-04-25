@@ -9,6 +9,8 @@ use App\Http\Resources\ReviewResource;
 
 class ReviewController extends Controller
 {
+
+
     /**
      * Display a listing of the resource.
      *
